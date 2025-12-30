@@ -1,4 +1,21 @@
-About Project
+## GAME RECOMMENDATION AGENT
+
+
+## İçindekiler
+- [About Project](#about-project)
+- [Project Objective and Motivation](#project-objective-and-motivation)
+- [Data Acquisition and Structuring Strategy](#data-acquisition-and-structuring-strategy)
+- [Local Model Experience and Technical Challenges](#local-model-experience-and-technical-challenges)
+- [Logs From Thought Process](#logs-from-thought-process)
+  - [Basic Example](#a-basic-example)
+  - [More Complex Example](#a-more-complex-example)
+  - [Even More Complex Example](#an-even-more-complex-example)
+- [Benchmark](#benchmark)
+- [Benchmark Evaluation](#benchmark-evaluation)
+  - [Detailed Look On Benchmark Results](#a-more-detailed-look-on-benchmark-results)
+
+
+## About Project
 	The project’s backbone integrates a RAG (Retrieval-Augmented Generation) architecture with a ReAct (Reasoning + Acting) agent loop. The system is not just a text generator—it acts as a reasoning engine that can query external tools (APIs and local databases) to make informed decisions. 
 Core Model: llama-3.1-8b-instant
 
@@ -18,12 +35,12 @@ External Tool Integration: The system fetches live data from the RAWG API, such 
 
 
 
- Project Objective and Motivation
+## Project Objective and Motivation
 Traditional game recommendation systems typically generate outputs based on surface-level parameters such as genre and tags. However, this approach falls short in fully capturing the atmospheric depth, mechanical nuances, and unique player experiences 
 offered by games. The primary motivation of this project is to overcome the "surface-level recommendation" barrier of existing AI systems by developing an intelligent game advisor agent that analyzes game lore, technical requirements, and gameplay dynamics. My goal is to provide users not just with what is "popular," but with results that are tailored (“tailor-made”) to their specific system specifications and experiential expectations.
 
 
- Data Acquisition and Structuring Strategy
+## Data Acquisition and Structuring Strategy
 The core data for the project was obtained via dynamic requests from the comprehensive game database RAWG API. The following strategies were applied in the data management phase:
 •	Game Info: Detailed descriptions of each game were structured as separate .txt files to reduce complexity and narrow the focus of the RAG (Retrieval-Augmented Generation) engine.
 •	System Requirements and Similarity Analysis: Initially, these data were consolidated into a single large file using various language models. However, during testing, it was observed that the large file structure created "Semantic Noise." Having thousands of lines of data in a single file caused irrelevant game data to mix during vector-based searches (Cosine Similarity), leading the model to select incorrect information as the "closest result."
@@ -35,7 +52,7 @@ The core data for the project was obtained via dynamic requests from the compreh
 
 
 
-  Local Model Experience and Technical Challenges
+## Local Model Experience and Technical Challenges
 In the initial development phase, the Qwen2.5:7b-instruct-q4_K_M model running on local resources was used. The main challenges encountered and the solutions applied are as follows:
 •	Language Instability (Multilingual Drift): The model was observed to switch nonsensically between Turkish, English, and Chinese, resulting in inconsistent responses.
 •	Computational Capacity and Lore Retention: It was determined that 7B-parameter models have limited capacity for retaining complex story connections (lore), technical terminology and sometimes basic math. This limitation caused the model to produce answers without logical grounding or hallucinated responses outside the document.
@@ -51,7 +68,7 @@ In the initial development phase, the Qwen2.5:7b-instruct-q4_K_M model running o
 
 
 
-Logs From Thought Process:
+## Logs From Thought Process:
 A basic example:
 ANALYSIS START:
 Question:
@@ -180,7 +197,7 @@ ________________________________________
 ANALYSIS COMPLETE
 
 
-Benchmark 
+## Benchmark 
 The benchmark evaluates the agent’s performance on a curated set of game-related questions, focusing on accuracy and response latency. Each question is processed through the ReAct-based agent, which generates a structured answer using a “Thought → Action → Observation” loop.
 
 To ensure objective evaluation, an LLM is used as a judge. The AI judge scores answers based on factual correctness, partial credit for partially correct responses, and understanding even when exact keywords are missing. The judge also considers effort when the agent admits it lacks information.
@@ -200,7 +217,7 @@ Results are compiled into a CSV report, showing individual question scores, aver
 
 
 
-Benchmark Evaluation 
+## Benchmark Evaluation 
 To evaluate the performance of my game adviser agent, I ran a controlled benchmark consisting of 50 curated game-related questions.
 Agent	Average Score	Average Latency (s)
 My Agent	77.8%	7.44
@@ -229,7 +246,7 @@ access to commercial-grade data.
 
 
 
-A More Detailed Look On Benchmark Results; 
+## A More Detailed Look On Benchmark Results; 
 
 Test Failures: ID 11 & ID 12
 Some critical questions scored 0%, caused not by the model but by RAG retrieval and tool-data issues.
