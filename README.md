@@ -1,5 +1,6 @@
 ## GAME RECOMMENDATION AGENT
 
+my lora [assignment](https://github.com/GoktugCanik/Qwen2.5-Lora-and-Benchmarking)
 
 ## İçindekiler
 - [About Project](#about-project)
@@ -16,7 +17,7 @@
 
 
 ## About Project	
-The project’s backbone integrates a RAG (Retrieval-Augmented Generation) architecture with a ReAct (Reasoning + Acting) agent loop. The system is not just a text generator—it acts as a reasoning engine that can query external tools (APIs and local databases) to make informed decisions. 
+This was assigned to me as a school project. The project’s backbone integrates a RAG (Retrieval-Augmented Generation) architecture with a ReAct (Reasoning + Acting) agent loop. The system is not just a text generator—it acts as a reasoning engine that can query external tools (APIs and local databases) to make informed decisions. 
 Core Model: llama-3.1-8b-instant
 
 Agent Workflow: Instead of answering directly, the model follows a Thought-Action-Observation loop.
@@ -57,7 +58,9 @@ In the initial development phase, the Qwen2.5:7b-instruct-q4_K_M model running o
 •	Language Instability (Multilingual Drift): The model was observed to switch nonsensically between Turkish, English, and Chinese, resulting in inconsistent responses.
 •	Computational Capacity and Lore Retention: It was determined that 7B-parameter models have limited capacity for retaining complex story connections (lore), technical terminology and sometimes basic math. This limitation caused the model to produce answers without logical grounding or hallucinated responses outside the document.
 •	Solution Approach: To overcome these constraints, I have moved to colab environment and used a more developed model.
-
+•	Low scores on benchmark. No matter what i do benchmark score wouldn't go up 65%. I found the solution in benchmark questions. When i translated questions to english both my agents and Gemini's 	score increased. 
+•	Wrong search parameters were another problem i have encountered. The agent would do calls with wrong names or sometimes extra words (such as Skyrim System Requirements instead of just Skyrim)
+ 	so i implemented a normalization function within the tools to strip redundant words and used prompt engineering to instruct the agent to output only atomic keywords. This ensures the search 		query matches the document titles perfectly, preventing "None" results caused by extra descriptive language.
 
 
 
