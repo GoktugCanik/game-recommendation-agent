@@ -15,8 +15,8 @@
   - [Detailed Look On Benchmark Results](#a-more-detailed-look-on-benchmark-results)
 
 
-## About Project
-	The project’s backbone integrates a RAG (Retrieval-Augmented Generation) architecture with a ReAct (Reasoning + Acting) agent loop. The system is not just a text generator—it acts as a reasoning engine that can query external tools (APIs and local databases) to make informed decisions. 
+## About Project	
+The project’s backbone integrates a RAG (Retrieval-Augmented Generation) architecture with a ReAct (Reasoning + Acting) agent loop. The system is not just a text generator—it acts as a reasoning engine that can query external tools (APIs and local databases) to make informed decisions. 
 Core Model: llama-3.1-8b-instant
 
 Agent Workflow: Instead of answering directly, the model follows a Thought-Action-Observation loop.
