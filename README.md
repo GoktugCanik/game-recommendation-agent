@@ -219,9 +219,10 @@ Results are compiled into a CSV report, showing individual question scores, aver
 
 ## Benchmark Evaluation 
 To evaluate the performance of my game adviser agent, I ran a controlled benchmark consisting of 50 curated game-related questions.
-Agent	Average Score	Average Latency (s)
-My Agent	77.8%	7.44
-Gemini AI	95.3%	9.35
+
+		Agent	Average Score	Average Latency (s)
+			My Agent	77.8%	7.44
+			Gemini AI	95.3%	9.35
 		
 
 
