@@ -200,6 +200,9 @@ ________________________________________
 ANALYSIS COMPLETE
 
 
+![benchmark_comparison](benchmark/score_per_id.png)
+
+
 ## Benchmark 
 The benchmark evaluates the agent’s performance on a curated set of game-related questions, focusing on accuracy and response latency. Each question is processed through the ReAct-based agent, which generates a structured answer using a “Thought → Action → Observation” loop.
 
