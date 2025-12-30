@@ -1,0 +1,6 @@
+GAME: DOOM (2016)
+THEME: Shooter, Action, Sci-Fi
+ATMOSPHERE: Dark, Intense, Fast-Paced
+CORE_MECHANICS: Shooting, exploration, fast movement, demon slaying
+SUMMARY: Fight through hordes of demons in a high-octane FPS experience. Similar to Doom Eternal, Wolfenstein The New Order, Quake, Serious Sam, and Shadow Warrior.
+

@@ -1,0 +1,6 @@
+GAME: Fallout New Vegas
+THEME: Post-Apocalyptic, RPG, Open World
+ATMOSPHERE: Wasteland, Gritty, Survivalist
+CORE_MECHANICS: Exploration, combat, crafting, dialogue choices
+SUMMARY: Survive and shape the Mojave Wasteland. Similar to Fallout 4, Fallout 3, Skyrim, The Outer Worlds, and Cyberpunk 2077.
+

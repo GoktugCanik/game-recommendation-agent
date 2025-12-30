@@ -1,0 +1,8 @@
+Game Name: Half-Life 2: Lost Coast
+Release Date: 2005-10-27
+Genres: Action
+Tags: Singleplayer, Multiplayer, Atmospheric, Great Soundtrack, First-Person, Sci-fi, FPS, Classic, Free to Play, Short
+
+Description:
+Essentially a tech demo, “Half-Life 2: Lost Coast” sole purpose was to show off the new high-dynamic-range-rendering of the Source engine, it was a welcome addition to the franchise. It’s a free addition to the game that can be downloaded through Steam by the owners of Half-Life 2. Gordon Freeman founds himself near a group of decaying piers, fully armed and ready to explore the monastery above him, fighting through the Combine forces.
+High-dynamic-range-rendering introduced realistic lighting effects to the game, emulating even camera’s overexposure to the bright light, which was eventually moved to the main game. Lost Coast story is conveyed without cutscenes, every part of the level is tailored specifically to demonstrate the changes, made by developers. Even though it was originally created for the Half-Life 2, it was removed from the main game, alongside some minor story details. It’s not a full standalone game and wasn’t intended as one.

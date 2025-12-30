@@ -1,0 +1,6 @@
+GAME: Deus Ex Mankind Divided
+THEME: Cyberpunk, RPG, Stealth
+ATMOSPHERE: Futuristic, Gritty, Dystopian
+CORE_MECHANICS: Stealth, hacking, combat, dialogue choices
+SUMMARY: Navigate a world of conspiracies as Adam Jensen. Similar to Deus Ex Human Revolution, Cyberpunk 2077, Prey, Dishonored, and System Shock.
+

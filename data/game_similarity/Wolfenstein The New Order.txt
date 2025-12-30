@@ -1,0 +1,6 @@
+GAME: Wolfenstein The New Order
+THEME: First-Person Shooter, Action, Alternate History
+ATMOSPHERE: Dark, Dystopian, Intense
+CORE_MECHANICS: Shooting, stealth, exploration, strategy
+SUMMARY: Fight against a Nazi regime in an alternate history. Similar to Doom, Wolfenstein II, Metro 2033, Call of Duty, and Half-Life.
+

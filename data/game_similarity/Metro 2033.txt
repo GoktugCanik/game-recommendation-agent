@@ -1,0 +1,6 @@
+GAME: Metro 2033
+THEME: FPS, Survival, Post-Apocalyptic
+ATMOSPHERE: Dark, Tense, Atmospheric
+CORE_MECHANICS: Shooting, stealth, resource management, exploration
+SUMMARY: Survive in a nuclear-ravaged Moscow underground. Similar to Metro Last Light, S.T.A.L.K.E.R., Fallout New Vegas, Half-Life 2, and BioShock.
+

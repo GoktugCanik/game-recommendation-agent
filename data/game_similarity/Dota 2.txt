@@ -1,0 +1,6 @@
+GAME: Dota 2
+THEME: MOBA, Competitive, Strategy
+ATMOSPHERE: Intense, Team-Oriented, Tactical
+CORE_MECHANICS: Hero abilities, team fights, resource management, map control
+SUMMARY: Lead a team of heroes in strategic battles to destroy the enemy base. Similar to League of Legends, Heroes of the Storm, Smite, Vainglory, and Warcraft III.
+

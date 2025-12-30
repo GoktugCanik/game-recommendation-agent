@@ -1,0 +1,6 @@
+GAME: BioShock
+THEME: Sci-Fi, Shooter, Narrative-Driven
+ATMOSPHERE: Dark, Atmospheric, Immersive
+CORE_MECHANICS: Shooting, exploration, powers, story choices.
+SUMMARY: Explore Rapture, a dystopian underwater city, uncovering secrets and facing moral dilemmas. Similar to BioShock 2, BioShock Infinite, Prey, System Shock 2, and Dishonored.
+

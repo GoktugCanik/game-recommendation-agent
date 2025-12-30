@@ -1,0 +1,10 @@
+GAME: Half-Life 2
+SYSTEM_RANK: Legacy
+OS: Windows
+CPU_TYPE: Single-core
+RAM_MIN: 2 GB
+GPU_MIN: Basic DirectX GPU
+GPU_POWER_LEVEL: 1/10
+OPTIMIZATION: Exceptional
+NOTES: The benchmark for optimization. Runs on nearly any functional PC from the last 15 years.
+

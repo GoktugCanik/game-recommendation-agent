@@ -1,0 +1,6 @@
+GAME: Shadow of Mordor
+THEME: Action-Adventure, RPG, Open World
+ATMOSPHERE: Dark, Gritty, Epic
+CORE_MECHANICS: Combat, exploration, nemesis system, stealth
+SUMMARY: Fight against Sauron’s forces in Mordor. Similar to Shadow of War, Batman Arkham City, Assassin’s Creed, God of War, and Mad Max.
+

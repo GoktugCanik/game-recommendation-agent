@@ -1,0 +1,6 @@
+GAME: The Witcher 3: Wild Hunt
+THEME: High Fantasy, Dark Fantasy, Narrative-Driven
+ATMOSPHERE: Gritty, Mature, Epic
+CORE_MECHANICS: Choice-based storytelling, monster hunting, alchemy, open-world exploration.
+SUMMARY: Geralt of Rivia searches for his adopted daughter in a war-torn world filled with mythical beasts and complex political intrigue. Similar to Skyrim, Dragon Age Inquisition, Horizon Zero Dawn, Assassin’s Creed Odyssey, and The Witcher 2.
+

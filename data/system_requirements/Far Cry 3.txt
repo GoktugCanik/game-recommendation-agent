@@ -1,0 +1,10 @@
+GAME: Far Cry 3
+SYSTEM_RANK: Mid-Range
+OS: Windows
+CPU_TYPE: Quad-core
+RAM_MIN: 4 GB
+GPU_MIN: GTX 460
+GPU_POWER_LEVEL: 3/10
+OPTIMIZATION: Medium
+NOTES: Open-world shooter; quad-core recommended for smooth performance.
+

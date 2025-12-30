@@ -1,0 +1,10 @@
+GAME: Civilization V
+SYSTEM_RANK: Low-End
+OS: Windows
+CPU_TYPE: Dual-core
+RAM_MIN: 4 GB
+GPU_MIN: GTX 650
+GPU_POWER_LEVEL: 2/10
+OPTIMIZATION: High
+NOTES: Turn-based strategy game; runs well on low-end PCs.
+

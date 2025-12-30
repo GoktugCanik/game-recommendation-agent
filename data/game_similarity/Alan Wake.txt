@@ -1,0 +1,6 @@
+GAME: Alan Wake
+THEME: Psychological Thriller, Action-Adventure, Horror
+ATMOSPHERE: Dark, Suspenseful, Mysterious
+CORE_MECHANICS: Story-driven exploration, light-based combat, puzzle-solving
+SUMMARY: Uncover the mysteries of a small town while surviving supernatural forces. Similar to Control, Silent Hill, Resident Evil, Deadly Premonition, and Outlast.
+

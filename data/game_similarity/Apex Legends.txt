@@ -1,0 +1,6 @@
+GAME: Apex Legends
+THEME: Shooter, Battle Royale, Multiplayer
+ATMOSPHERE: Fast-Paced, Futuristic, Competitive
+CORE_MECHANICS: Shooting, movement abilities, squad-based gameplay
+SUMMARY: Team up and fight to be the last squad standing. Similar to PUBG, Fortnite, Warzone, Titanfall 2, and Valorant.
+

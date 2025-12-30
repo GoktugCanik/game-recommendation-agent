@@ -1,0 +1,10 @@
+GAME: The Witcher 2
+SYSTEM_RANK: Mid-Range
+OS: Windows
+CPU_TYPE: Quad-core
+RAM_MIN: 4 GB
+GPU_MIN: GTX 260
+GPU_POWER_LEVEL: 2/10
+OPTIMIZATION: Medium
+NOTES: Older RPG; moderate optimization, needs quad-core for stable framerate.
+

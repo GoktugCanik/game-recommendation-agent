@@ -1,0 +1,6 @@
+GAME: The Last of Us Remastered
+THEME: Action-Adventure, Survival, Narrative-Driven
+ATMOSPHERE: Post-Apocalyptic, Emotional, Dark
+CORE_MECHANICS: Combat, stealth, exploration, story
+SUMMARY: Survive in a post-apocalyptic world and protect a young girl. Similar to The Last of Us Part II, God of War, A Plague Tale, Resident Evil 4, and Uncharted.
+

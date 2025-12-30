@@ -1,0 +1,10 @@
+GAME: Apex Legends
+SYSTEM_RANK: Mid-Range
+OS: Windows 10
+CPU_TYPE: Quad-core
+RAM_MIN: 8 GB
+GPU_MIN: GTX 970
+GPU_POWER_LEVEL: 5/10
+OPTIMIZATION: High
+NOTES: Well-optimized battle royale. Quad-core CPU ensures smooth gameplay.
+

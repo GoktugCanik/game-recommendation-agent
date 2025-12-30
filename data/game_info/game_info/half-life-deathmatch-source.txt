@@ -1,0 +1,7 @@
+Game Name: Half-Life Deathmatch: Source
+Release Date: 2006-05-01
+Genres: Action
+Tags: Multiplayer, First-Person, Sci-fi, Horror, FPS, Classic, Valve Anti-Cheat enabled
+
+Description:
+A direct port of the original Deathmatch mode for the half-life to the Source engine slightly improves the game flow, by making controls more responsive and the connection more stable. Half-Life Deathmatch Source recreates the gameplay of the original multiplayer of Half-Life. All players are randomly spawned at the different map points and battle each other within a free-for-all brawl. To acquire any resource (weapons, ammo, health, and energy) players must scavenge the map for the various caches. Victory is achieved by obtaining the largest amount of kills during the match, by eliminating other players. In case of the draw, the player with the least amount of deaths is a winner of the match. Aside from the user created content, there are 8 available maps for the Half-Life Deathmatch: Source.

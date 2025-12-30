@@ -1,0 +1,10 @@
+GAME: Portal 2
+SYSTEM_RANK: Low-End
+OS: Windows
+CPU_TYPE: Dual-core
+RAM_MIN: 4 GB
+GPU_MIN: GTX 260
+GPU_POWER_LEVEL: 2/10
+OPTIMIZATION: Very High
+NOTES: Source Engine provides excellent performance on older hardware. 4GB RAM is more than enough.
+

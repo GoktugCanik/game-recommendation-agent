@@ -1,0 +1,6 @@
+GAME: GTA San Andreas
+THEME: Open World, Crime, Narrative-Driven
+ATMOSPHERE: Urban, Realistic, Satirical
+CORE_MECHANICS: Driving, shooting, exploration, role-playing
+SUMMARY: Explore the state of San Andreas as Carl Johnson. Similar to GTA Vice City, GTA IV, GTA V, Saints Row, and Mafia.
+

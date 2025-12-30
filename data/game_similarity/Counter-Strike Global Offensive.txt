@@ -1,0 +1,6 @@
+GAME: Counter-Strike: Global Offensive
+THEME: Shooter, Competitive, Tactical
+ATMOSPHERE: Realistic, Intense, Team-Based
+CORE_MECHANICS: Team-based shooting, bomb defusal, weapon management, strategy.
+SUMMARY: Competitive first-person shooter where two teams battle to complete objectives. Similar to Counter-Strike Source, Valorant, Rainbow Six Siege, Call of Duty, and CS 1.6.
+

@@ -1,0 +1,6 @@
+GAME: Cyberpunk 2077
+THEME: Open World, RPG, Sci-Fi
+ATMOSPHERE: Futuristic, Neon, Gritty
+CORE_MECHANICS: Story-driven quests, hacking, combat, exploration, dialogue choices
+SUMMARY: Navigate Night City as V, a mercenary in a cyberpunk dystopia. Similar to Deus Ex Mankind Divided, Fallout 4, GTA V, The Witcher 3, and Mass Effect.
+

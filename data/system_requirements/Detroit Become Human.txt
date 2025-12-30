@@ -1,0 +1,10 @@
+GAME: Detroit Become Human
+SYSTEM_RANK: Mid-Range
+OS: Windows 10
+CPU_TYPE: Quad-core
+RAM_MIN: 8 GB
+GPU_MIN: GTX 780
+GPU_POWER_LEVEL: 5/10
+OPTIMIZATION: Medium
+NOTES: Narrative-driven game; stable 1080p gameplay with recommended specs.
+

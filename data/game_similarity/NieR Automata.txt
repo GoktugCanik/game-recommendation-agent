@@ -1,0 +1,6 @@
+GAME: NieR Automata
+THEME: Action RPG, Sci-Fi, Mecha
+ATMOSPHERE: Futuristic, Emotional, Dark
+CORE_MECHANICS: Combat, exploration, storytelling, RPG elements
+SUMMARY: Fight robotic enemies in a post-apocalyptic world. Similar to Devil May Cry 5, Bayonetta, Final Fantasy XV, Metal Gear Rising, and Astral Chain.
+

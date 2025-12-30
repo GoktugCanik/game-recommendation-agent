@@ -1,0 +1,6 @@
+GAME: Assassin’s Creed IV Black Flag
+THEME: Open World, Action-Adventure, Historical
+ATMOSPHERE: Pirate, Nautical, Immersive
+CORE_MECHANICS: Exploration, naval combat, parkour, stealth
+SUMMARY: Navigate the Caribbean as a pirate and assassin. Similar to Assassin’s Creed Odyssey, Sea of Thieves, Assassin’s Creed Rogue, Far Cry 3, and Skull and Bones.
+

@@ -1,0 +1,6 @@
+GAME: The Witcher 1
+THEME: High Fantasy, Dark Fantasy, RPG
+ATMOSPHERE: Gritty, Medieval, Epic
+CORE_MECHANICS: Story-driven quests, combat, exploration, alchemy
+SUMMARY: Begin Geralt’s story in a world of monsters and magic. Similar to The Witcher 2, Dragon Age Origins, Baldur’s Gate, Gothic, and Skyrim.
+

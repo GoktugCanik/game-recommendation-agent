@@ -1,0 +1,10 @@
+GAME: Outlast
+SYSTEM_RANK: Low-End
+OS: Windows
+CPU_TYPE: Quad-core
+RAM_MIN: 4 GB
+GPU_MIN: GTX 460
+GPU_POWER_LEVEL: 2/10
+OPTIMIZATION: Medium
+NOTES: Horror game; quad-core CPU helps with smooth performance.
+

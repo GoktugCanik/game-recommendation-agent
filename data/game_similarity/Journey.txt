@@ -1,0 +1,5 @@
+GAME: Journey
+THEME: Adventure, Exploration, Indie
+ATMOSPHERE: Calm, Emotional, Artistic
+CORE_MECHANICS: Exploration, puzzle-solving, interaction, storytelling
+SUMMARY: Traverse a vast desert to reach a distant mountain. Similar to Abzû, Gris, Flower, Limbo, and Inside.

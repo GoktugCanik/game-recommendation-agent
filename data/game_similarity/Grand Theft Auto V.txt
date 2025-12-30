@@ -1,0 +1,6 @@
+GAME: Grand Theft Auto V
+THEME: Open World, Crime, Satire
+ATMOSPHERE: Urban, Modern, Chaotic
+CORE_MECHANICS: Driving, shooting, heists, multiple playable characters.
+SUMMARY: Players follow three criminals as they plan and execute high-stakes heists while navigating the corrupt city of Los Santos. Similar to Grand Theft Auto IV, Red Dead Redemption 2, Saints Row The Third, Watch Dogs, and Sleeping Dogs.
+

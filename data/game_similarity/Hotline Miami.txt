@@ -1,0 +1,6 @@
+GAME: Hotline Miami
+THEME: Top-Down Shooter, Action, Indie
+ATMOSPHERE: Violent, Neon, Fast-Paced
+CORE_MECHANICS: Shooting, stealth, fast reflexes, combo-based kills
+SUMMARY: Execute high-intensity missions in a retro-inspired world. Similar to Katana Zero, Ruiner, Super Meat Boy, Dead Cells, and Ape Out.
+

@@ -1,0 +1,6 @@
+GAME: Payday 2
+THEME: Action, Crime, Co-op
+ATMOSPHERE: Urban, Chaotic, High-Stakes
+CORE_MECHANICS: Heists, shooting, stealth, cooperative gameplay.
+SUMMARY: Complete high-risk heists with friends, managing planning and execution. Similar to Left 4 Dead 2, GTFO, Rainbow Six Siege, Warframe, and Killing Floor 2.
+

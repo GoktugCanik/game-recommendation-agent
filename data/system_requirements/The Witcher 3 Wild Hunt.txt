@@ -1,0 +1,10 @@
+GAME: The Witcher 3: Wild Hunt
+SYSTEM_RANK: Mid-Range
+OS: Windows 10
+CPU_TYPE: Quad-core
+RAM_MIN: 8 GB
+GPU_MIN: GTX 770
+GPU_POWER_LEVEL: 4/10
+OPTIMIZATION: High
+NOTES: Significant CPU load in dense urban areas like Novigrad. Requires decent VRAM for high-quality textures.
+

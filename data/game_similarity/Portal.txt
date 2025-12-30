@@ -1,0 +1,6 @@
+GAME: Portal
+THEME: Puzzle, Sci-Fi, Minimalist
+ATMOSPHERE: Sterile, Isolated, Humorous
+CORE_MECHANICS: Portal-based puzzle solving, physics manipulation.
+SUMMARY: Solve increasingly complex puzzles using a portal gun in the Aperture Science facility. Similar to Portal 2, The Talos Principle, Superliminal, Half-Life 2, and Q.U.B.E.
+

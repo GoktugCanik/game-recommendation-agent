@@ -1,0 +1,6 @@
+GAME: Detroit Become Human
+THEME: Narrative-Driven, Interactive Drama, Sci-Fi
+ATMOSPHERE: Futuristic, Emotional, Tense
+CORE_MECHANICS: Dialogue choices, branching storylines, exploration
+SUMMARY: Make choices that affect the fate of androids and humans. Similar to Heavy Rain, Beyond Two Souls, Life Is Strange, The Walking Dead, and Until Dawn.
+

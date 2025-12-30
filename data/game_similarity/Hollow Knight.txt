@@ -1,0 +1,6 @@
+GAME: Hollow Knight
+THEME: Metroidvania, Action-Adventure, Platformer
+ATMOSPHERE: Dark, Atmospheric, Challenging
+CORE_MECHANICS: Exploration, combat, platforming, ability progression
+SUMMARY: Explore Hallownest as a small knight facing powerful enemies. Similar to Dead Cells, Ori and the Blind Forest, Blasphemous, Celeste, and Dark Souls.
+

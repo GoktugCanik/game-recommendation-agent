@@ -1,0 +1,6 @@
+GAME: Destiny 2
+THEME: Shooter, MMO, Sci-Fi
+ATMOSPHERE: Futuristic, Epic, Cooperative
+CORE_MECHANICS: Shooting, class-based abilities, exploration, raid mechanics.
+SUMMARY: Players take on the role of Guardians to protect humanity and explore different planets. Similar to Warframe, Borderlands 2, The Division, Halo, and Anthem.
+

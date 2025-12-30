@@ -1,0 +1,10 @@
+GAME: BioShock
+SYSTEM_RANK: Legacy
+OS: Windows
+CPU_TYPE: Dual-core
+RAM_MIN: 2 GB
+GPU_MIN: DirectX 9 GPU
+GPU_POWER_LEVEL: 1/10
+OPTIMIZATION: High
+NOTES: Atmospheric but technically undemanding by modern standards. 2GB RAM is the absolute minimum.
+

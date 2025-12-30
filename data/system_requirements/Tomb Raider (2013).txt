@@ -1,0 +1,10 @@
+GAME: Tomb Raider (2013)
+SYSTEM_RANK: Mid-Range
+OS: Windows 10
+CPU_TYPE: Quad-core
+RAM_MIN: 8 GB
+GPU_MIN: GTX 660
+GPU_POWER_LEVEL: 3/10
+OPTIMIZATION: High
+NOTES: Well-balanced requirements. 8GB RAM ensures no stuttering during cinematic transitions.
+

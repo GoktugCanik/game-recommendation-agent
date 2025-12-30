@@ -1,0 +1,6 @@
+GAME: Outlast
+THEME: Survival Horror, First-Person, Psychological
+ATMOSPHERE: Dark, Tense, Scary
+CORE_MECHANICS: Stealth, exploration, puzzle-solving, survival
+SUMMARY: Escape a horrifying asylum while avoiding enemies. Similar to Amnesia The Dark Descent, Resident Evil 7, Visage, Layers of Fear, and Alien Isolation.
+

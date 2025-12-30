@@ -1,0 +1,10 @@
+GAME: Left 4 Dead 2
+SYSTEM_RANK: Low-End
+OS: Windows
+CPU_TYPE: Dual-core
+RAM_MIN: 4 GB
+GPU_MIN: GTX 260
+GPU_POWER_LEVEL: 2/10
+OPTIMIZATION: High
+NOTES: Designed for high frame rates on older hardware. Performance remains stable even with many entities on screen.
+

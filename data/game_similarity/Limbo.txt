@@ -1,0 +1,6 @@
+GAME: Limbo
+THEME: Puzzle, Platformer, Atmospheric
+ATMOSPHERE: Dark, Minimalist, Creepy
+CORE_MECHANICS: Physics-based puzzles, platforming, exploration.
+SUMMARY: A boy searches for his sister in a haunting monochrome world. Similar to Inside, Little Nightmares, Journey, Gris, and Hollow Knight.
+

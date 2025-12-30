@@ -1,0 +1,6 @@
+GAME: Amnesia The Dark Descent
+THEME: Survival Horror, Psychological, Adventure
+ATMOSPHERE: Dark, Creepy, Suspenseful
+CORE_MECHANICS: Exploration, puzzle-solving, stealth, survival
+SUMMARY: Navigate a haunted castle while uncovering hidden secrets. Similar to Outlast, Penumbra, Visage, SOMA, and Layers of Fear.
+

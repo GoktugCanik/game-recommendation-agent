@@ -1,0 +1,6 @@
+GAME: Red Dead Redemption 2
+THEME: Western, Open World, Narrative-Driven
+ATMOSPHERE: Gritty, Realistic, Epic
+CORE_MECHANICS: Exploration, horseback riding, shooting, narrative choices.
+SUMMARY: Follow the Van der Linde gang as they survive in the dying Wild West. Similar to GTA V, Red Dead Redemption, The Witcher 3, Horizon Zero Dawn, and Assassin’s Creed Valhalla.
+

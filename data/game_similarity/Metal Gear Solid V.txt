@@ -1,0 +1,6 @@
+GAME: Metal Gear Solid V
+THEME: Stealth, Action, Open World
+ATMOSPHERE: Tactical, Gritty, Realistic
+CORE_MECHANICS: Stealth, combat, base management, exploration
+SUMMARY: Engage in covert operations with tactical freedom. Similar to Metal Gear Solid Ground Zeroes, Hitman, Splinter Cell, Ghost Recon Wildlands, and Far Cry.
+

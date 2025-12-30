@@ -1,0 +1,6 @@
+GAME: Team Fortress 2
+THEME: Shooter, Multiplayer, Cartoonish
+ATMOSPHERE: Colorful, Fast-Paced, Competitive
+CORE_MECHANICS: Team-based shooting, class abilities, objective control.
+SUMMARY: Players choose a class and work with their team to complete objectives. Similar to Overwatch, Paladins, Counter-Strike, Valorant, and Apex Legends.
+

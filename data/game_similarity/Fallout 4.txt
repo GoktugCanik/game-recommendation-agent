@@ -1,0 +1,6 @@
+GAME: Fallout 4
+THEME: Open World, RPG, Post-Apocalyptic
+ATMOSPHERE: Desolate, Immersive, Gritty
+CORE_MECHANICS: Exploration, crafting, shooting, questing.
+SUMMARY: Survive the Commonwealth, make choices that shape the world, and fight mutated enemies. Similar to Fallout New Vegas, Skyrim, The Outer Worlds, Cyberpunk 2077, and Mass Effect.
+

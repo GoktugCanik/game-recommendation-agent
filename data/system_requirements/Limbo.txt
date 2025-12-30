@@ -1,0 +1,10 @@
+GAME: Limbo
+SYSTEM_RANK: Entry-Level
+OS: Windows
+CPU_TYPE: Dual-core
+RAM_MIN: 2 GB
+GPU_MIN: Basic GPU
+GPU_POWER_LEVEL: 1/10
+OPTIMIZATION: Very High
+NOTES: 2D side-scroller with minimal hardware requirements. Perfect for low-spec laptops.
+

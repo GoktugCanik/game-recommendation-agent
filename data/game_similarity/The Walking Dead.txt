@@ -1,0 +1,6 @@
+GAME: The Walking Dead
+THEME: Narrative-Driven, Adventure, Survival
+ATMOSPHERE: Emotional, Dark, Realistic
+CORE_MECHANICS: Choice-based storytelling, exploration, puzzle-solving
+SUMMARY: Follow characters surviving a zombie apocalypse. Similar to Life Is Strange, Detroit Become Human, Heavy Rain, Beyond Two Souls, and Wolf Among Us.
+

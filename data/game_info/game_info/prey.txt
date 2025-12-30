@@ -1,0 +1,11 @@
+Game Name: Prey
+Release Date: 2017-05-05
+Genres: Action, Shooter, RPG
+Tags: Singleplayer, Steam Achievements, Full controller support, Steam Cloud, Atmospheric, steam-trading-cards, Great Soundtrack, RPG, Story Rich, Open World
+
+Description:
+Prey (2017) is a single-player sci-fi first-person shooter developed by Arkane Studios Austin and published by Bethesda Softworks. While it is technically a reboot of the 2006 game of the same name developed by Human Head Studios, of which the sequel suffered a fall into development hell before the license was sold to Bethesda Softworks, there is no relation between the stories and universes of the two games.
+
+The game is set in the near future of an alternate reality. You find yourself stranded on the Talos I space station, invaded by hostile aliens referred to as the Typhon. To survive, you must explore Talos I in search of weapons and resources to fight off the invaders. Along the way, you'll use neural modification devices to learn skills and psychic abilites.
+
+Prey's gameplay loop takes heavy inspiration from System Shock and Bioshock. The game received critical acclaim for its gameplay and its atmosphere. Prey received one paid DLC extension called Mooncrash which introduced a roguelite mode and a free update called Typhon Hunter which introduced a multiplayer mode inspired by classic prop hunt.

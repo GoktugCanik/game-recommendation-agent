@@ -1,0 +1,6 @@
+GAME: Dark Souls III
+THEME: Action RPG, Fantasy, Soulslike
+ATMOSPHERE: Dark, Gothic, Challenging
+CORE_MECHANICS: Combat, exploration, stamina management, boss fights
+SUMMARY: Embark on a punishing journey through a dark fantasy world. Similar to Bloodborne, Elden Ring, Sekiro, Nioh, and Demon’s Souls.
+

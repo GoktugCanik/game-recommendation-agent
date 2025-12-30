@@ -1,0 +1,10 @@
+GAME: Mirror’s Edge
+SYSTEM_RANK: Low-End
+OS: Windows
+CPU_TYPE: Dual-core
+RAM_MIN: 2 GB
+GPU_MIN: GTX 8800
+GPU_POWER_LEVEL: 2/10
+OPTIMIZATION: High
+NOTES: Classic parkour game; low RAM requirement.
+

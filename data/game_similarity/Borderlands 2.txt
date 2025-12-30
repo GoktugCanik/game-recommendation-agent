@@ -1,0 +1,6 @@
+GAME: Borderlands 2
+THEME: Shooter, Loot, Co-op
+ATMOSPHERE: Colorful, Comic, Chaotic
+CORE_MECHANICS: Shooting, looting, skill trees, cooperative gameplay.
+SUMMARY: Players explore Pandora, collecting loot and battling enemies with unique abilities. Similar to Borderlands, Borderlands The Pre-Sequel, Destiny 2, Far Cry 3, and Rage.
+

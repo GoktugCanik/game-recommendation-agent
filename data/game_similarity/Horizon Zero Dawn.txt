@@ -1,0 +1,6 @@
+GAME: Horizon Zero Dawn
+THEME: Open World, RPG, Sci-Fi
+ATMOSPHERE: Post-Apocalyptic, Lush, Immersive
+CORE_MECHANICS: Exploration, combat, crafting, narrative-driven quests
+SUMMARY: Explore a world overrun by robotic creatures as Aloy. Similar to The Witcher 3, Assassin’s Creed Odyssey, Tomb Raider, God of War, and Far Cry Primal.
+

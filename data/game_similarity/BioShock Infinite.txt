@@ -1,0 +1,6 @@
+GAME: BioShock Infinite
+THEME: Sci-Fi, Shooter, Narrative-Driven
+ATMOSPHERE: Surreal, Dystopian, Atmospheric
+CORE_MECHANICS: Shooting, exploration, powers (Vigors), story choices.
+SUMMARY: Booker DeWitt navigates the floating city of Columbia to rescue Elizabeth, facing moral dilemmas and uncovering secrets. Similar to BioShock, BioShock 2, Dishonored, Prey, and Half-Life 2.
+

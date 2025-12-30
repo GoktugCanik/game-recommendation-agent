@@ -1,0 +1,6 @@
+GAME: The Witcher 2
+THEME: High Fantasy, Dark Fantasy, RPG
+ATMOSPHERE: Gritty, Mature, Epic
+CORE_MECHANICS: Choice-based storytelling, combat, alchemy, exploration
+SUMMARY: Continue Geralt’s journey in a world filled with political intrigue. Similar to The Witcher 3, Dragon Age Origins, Skyrim, GreedFall, and Fable.
+

@@ -1,0 +1,6 @@
+GAME: Hellblade Senua’s Sacrifice
+THEME: Action-Adventure, Psychological, Fantasy
+ATMOSPHERE: Dark, Intense, Mythological
+CORE_MECHANICS: Combat, puzzle-solving, exploration, story-driven
+SUMMARY: Embark on a harrowing journey into a Norse myth-inspired world. Similar to God of War, A Plague Tale, Control, The Last of Us, and Dark Souls.
+

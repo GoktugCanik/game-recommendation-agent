@@ -1,0 +1,10 @@
+GAME: Terraria
+SYSTEM_RANK: Low-End
+OS: Windows
+CPU_TYPE: Dual-core
+RAM_MIN: 4 GB
+GPU_MIN: Basic GPU
+GPU_POWER_LEVEL: 1/10
+OPTIMIZATION: High
+NOTES: Very light on hardware. Runs on almost any modern PC.
+

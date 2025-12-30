@@ -1,0 +1,6 @@
+GAME: Terraria
+THEME: Sandbox, Adventure, Survival
+ATMOSPHERE: Colorful, Pixel-Art, Lighthearted
+CORE_MECHANICS: Crafting, exploration, combat, building
+SUMMARY: Dig, fight, explore, and build in a procedurally generated world. Similar to Minecraft, Starbound, Don’t Starve, Valheim, and No Man’s Sky.
+

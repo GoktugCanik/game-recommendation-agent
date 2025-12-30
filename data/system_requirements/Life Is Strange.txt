@@ -1,0 +1,10 @@
+GAME: Life Is Strange
+SYSTEM_RANK: Low-End
+OS: Windows
+CPU_TYPE: Dual-core
+RAM_MIN: 4 GB
+GPU_MIN: GTX 450
+GPU_POWER_LEVEL: 2/10
+OPTIMIZATION: High
+NOTES: Story-focused with low real-time rendering demands. Dual-core and 4GB RAM provide a stable experience.
+

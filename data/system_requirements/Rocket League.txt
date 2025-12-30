@@ -1,0 +1,10 @@
+GAME: Rocket League
+SYSTEM_RANK: Low-End
+OS: Windows
+CPU_TYPE: Dual-core
+RAM_MIN: 4 GB
+GPU_MIN: GTX 650
+GPU_POWER_LEVEL: 2/10
+OPTIMIZATION: High
+NOTES: Highly optimized sports game. Runs smoothly on mid-range hardware.
+

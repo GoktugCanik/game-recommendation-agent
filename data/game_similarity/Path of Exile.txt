@@ -1,0 +1,6 @@
+GAME: Path of Exile
+THEME: Action RPG, Loot, Dark Fantasy
+ATMOSPHERE: Dark, Challenging, Grim
+CORE_MECHANICS: Skill gems, character customization, exploration, combat
+SUMMARY: Explore dangerous lands and defeat powerful enemies. Similar to Diablo III, Grim Dawn, Torchlight II, Last Epoch, and Lost Ark.
+

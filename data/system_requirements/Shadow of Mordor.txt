@@ -1,0 +1,10 @@
+GAME: Shadow of Mordor
+SYSTEM_RANK: Mid-Range
+OS: Windows 10
+CPU_TYPE: Quad-core
+RAM_MIN: 6 GB
+GPU_MIN: GTX 560
+GPU_POWER_LEVEL: 3/10
+OPTIMIZATION: Medium
+NOTES: Open-world action game. 6GB RAM recommended for smoother performance.
+

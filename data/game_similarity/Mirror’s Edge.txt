@@ -1,0 +1,6 @@
+GAME: Mirror’s Edge
+THEME: Parkour, Action-Adventure, First-Person
+ATMOSPHERE: Futuristic, Minimalist, Fast-Paced
+CORE_MECHANICS: Parkour movement, running, combat, puzzle-solving
+SUMMARY: Navigate a dystopian city using parkour skills. Similar to Mirror’s Edge Catalyst, Dying Light, Titanfall 2, Ghostrunner, and Assassin’s Creed.
+

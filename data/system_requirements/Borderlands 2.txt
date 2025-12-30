@@ -1,0 +1,10 @@
+GAME: Borderlands 2
+SYSTEM_RANK: Low-End
+OS: Windows
+CPU_TYPE: Dual-core
+RAM_MIN: 4 GB
+GPU_MIN: GTX 460
+GPU_POWER_LEVEL: 2/10
+OPTIMIZATION: High
+NOTES: Stylized graphics reduce GPU strain. PhysX effects can increase CPU load if enabled.
+

@@ -1,0 +1,6 @@
+GAME: Dishonored
+THEME: Stealth, Action-Adventure, RPG
+ATMOSPHERE: Dark, Gothic, Intriguing
+CORE_MECHANICS: Stealth, powers, combat, exploration
+SUMMARY: Use supernatural abilities to eliminate targets in a steampunk world. Similar to Dishonored 2, Deus Ex, BioShock, Prey, and Thief.
+

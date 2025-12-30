@@ -1,0 +1,6 @@
+GAME: Hades
+THEME: Roguelike, Action, Hack and Slash
+ATMOSPHERE: Mythological, Fast-Paced, Challenging
+CORE_MECHANICS: Combat, skill progression, randomization, exploration
+SUMMARY: Escape the Underworld while battling gods and monsters. Similar to Bastion, Dead Cells, Curse of the Dead Gods, Transistor, and Enter the Gungeon.
+

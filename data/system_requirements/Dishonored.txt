@@ -1,0 +1,10 @@
+GAME: Dishonored
+SYSTEM_RANK: Mid-Range
+OS: Windows
+CPU_TYPE: Quad-core
+RAM_MIN: 4 GB
+GPU_MIN: GTX 460
+GPU_POWER_LEVEL: 3/10
+OPTIMIZATION: High
+NOTES: Stealth-action game; well-optimized for quad-core CPUs.
+

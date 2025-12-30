@@ -1,0 +1,10 @@
+GAME: Wolfenstein The New Order
+SYSTEM_RANK: Mid-Range
+OS: Windows 10
+CPU_TYPE: Quad-core
+RAM_MIN: 8 GB
+GPU_MIN: GTX 660
+GPU_POWER_LEVEL: 4/10
+OPTIMIZATION: Medium
+NOTES: Well-optimized FPS. Quad-core CPU recommended for stable 1080p.
+

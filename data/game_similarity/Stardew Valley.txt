@@ -1,0 +1,6 @@
+GAME: Stardew Valley
+THEME: Farming Simulation, Life Simulation, Indie
+ATMOSPHERE: Relaxing, Charming, Cozy
+CORE_MECHANICS: Farming, crafting, relationship-building, exploration
+SUMMARY: Manage your farm and interact with villagers. Similar to Animal Crossing, Harvest Moon, Terraria, My Time at Portia, and Graveyard Keeper.
+

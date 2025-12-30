@@ -1,0 +1,6 @@
+GAME: Batman Arkham Knight
+THEME: Action-Adventure, Superhero, Open World
+ATMOSPHERE: Dark, Cinematic, Intense
+CORE_MECHANICS: Combat, stealth, detective work, exploration
+SUMMARY: Protect Gotham as Batman against Scarecrow and other villains. Similar to Batman Arkham City, Marvel’s Spider-Man, Shadow of Mordor, Assassin’s Creed, and Mad Max.
+

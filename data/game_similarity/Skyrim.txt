@@ -1,0 +1,6 @@
+GAME: Skyrim
+THEME: High Fantasy, Open World, Role-Playing
+ATMOSPHERE: Epic, Immersive, Mythical
+CORE_MECHANICS: Questing, exploration, combat, character customization, magic.
+SUMMARY: Explore the vast province of Skyrim, battling dragons and navigating political intrigue. Similar to The Witcher 3, Dragon’s Dogma, Fallout 4, Enderal, and Oblivion.
+

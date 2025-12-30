@@ -1,0 +1,15 @@
+Game Name: For Honor
+Release Date: 2017-02-13
+Genres: Action, Massively Multiplayer
+Tags: Singleplayer, Multiplayer, Atmospheric, steam-trading-cards, RPG, Co-op, Story Rich, cooperative, Third Person, Partial Controller Support
+
+Description:
+For Honor is an action game developed by Ubisoft Montreal. The game mixes the element of fighting and hacks and slashes with a heavy focus on multiplayer. 
+
+###Plot and setting 
+The game takes place in the medieval fantasy world and follows the conflict between three factions: the Iron Legion, the Chosen, and the Warborn. Each fraction represents a specific medieval culture: knights, samurai, and Vikings respectively. 
+
+###Gameplay 
+The gameplay incorporates elements of the hack-and-slash and fighting game. The player can choose from more than 12 different characters from each of the fractions. The all have their unique moves, weapons, characteristics, abilities, and executions. The fighting system is based on the duel between players. It incorporates the variety of moves such as attacks from different angles, blocks, dodges, stuns, counterattacks, unblockable attacks, and faints. 
+Each character has its progression system which allows one to gain new perks, upgrade weapons, armor as well as the increase in rank that affects matchmaking process. 
+There are six multiplayer modes: they primarily differ from each other by the number of the players involved in the conflict. The multiplayer modes do not feature any PvE battles — the leftovers are team elimination, flag capture and one on one battles.

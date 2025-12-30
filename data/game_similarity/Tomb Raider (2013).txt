@@ -1,0 +1,6 @@
+GAME: Tomb Raider (2013)
+THEME: Action-Adventure, Exploration, Puzzle
+ATMOSPHERE: Exotic, Dangerous, Cinematic
+CORE_MECHANICS: Platforming, climbing, combat, environmental puzzles.
+SUMMARY: Follow Lara Croft as she survives on a mysterious island, uncovering secrets and solving puzzles. Similar to Rise of the Tomb Raider, Shadow of the Tomb Raider, Uncharted 4, Horizon Zero Dawn, and Assassin’s Creed.
+

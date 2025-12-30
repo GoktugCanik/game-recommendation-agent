@@ -1,0 +1,13 @@
+Game Name: Sid Meier's Civilization V
+Release Date: 2010-09-21
+Genres: Strategy
+Tags: Singleplayer, Steam Achievements, Multiplayer, Steam Cloud, steam-trading-cards, Great Soundtrack, Co-op, cooperative, Classic, Tactical
+
+Description:
+Real-time strategy genre has always been about domination over your opponent, and Civilization in general expanded on the concept. Civilization 5 allows players to pick one of the 43 civilizations available in, including DLCs and the expansions. After that players in single player or multiplayer games will place their first cities, which will act as capital, and begin the race. In order to win, players will have to meet one of the following conditions:
+- defeating every other existing nation through combat to get Domination Victory;
+- building and launching a spaceship to get Science victory; 
+- completing the Utopia project by filling out 5 trees of social policies, to get Social Victory;
+- winning a vote after establishing the  United Nations, to get the Diplomatic victory;
+- getting the highest score at the end of the time period, if no other win condition was reached, to get Time Victory.
+Every civilization is represented by one of the most influential historical figures and voiced in the language of that nation. Easy to pick up game mechanics of research, foraging, and building, allow the player to immerse themselves into the game atmosphere of continuous development.

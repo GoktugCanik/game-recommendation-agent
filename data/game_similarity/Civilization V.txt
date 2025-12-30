@@ -1,0 +1,6 @@
+GAME: Civilization V
+THEME: Turn-Based Strategy, Empire Building, Historical
+ATMOSPHERE: Strategic, Immersive, Detailed
+CORE_MECHANICS: City management, diplomacy, research, combat
+SUMMARY: Lead a civilization from ancient times to the modern era. Similar to Civilization VI, Humankind, Europa Universalis IV, Endless Legend, and Age of Wonders.
+

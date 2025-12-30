@@ -1,0 +1,6 @@
+GAME: Little Nightmares
+THEME: Puzzle, Platformer, Horror
+ATMOSPHERE: Dark, Creepy, Atmospheric
+CORE_MECHANICS: Exploration, stealth, puzzle-solving, platforming
+SUMMARY: Guide Six through a nightmarish world. Similar to Limbo, Inside, Darq, Bramble, and Unravel.
+

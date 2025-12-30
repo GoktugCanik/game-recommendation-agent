@@ -1,0 +1,10 @@
+GAME: Rise of the Tomb Raider
+SYSTEM_RANK: Mid-Range
+OS: Windows 10
+CPU_TYPE: Quad-core
+RAM_MIN: 8 GB
+GPU_MIN: GTX 970
+GPU_POWER_LEVEL: 5/10
+OPTIMIZATION: High
+NOTES: Well-optimized for mid-range PCs; 8GB RAM recommended for high-quality textures.
+

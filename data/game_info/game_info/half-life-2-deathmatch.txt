@@ -1,0 +1,8 @@
+Game Name: Half-Life 2: Deathmatch
+Release Date: 2004-11-01
+Genres: Action
+Tags: Multiplayer, Atmospheric, Co-op, cooperative, First-Person, Sci-fi, FPS, Funny, Free to Play, Physics
+
+Description:
+Upon the release of Half-Life 2 players were greatly disappointed in one thing, and that’s the lack of multiplayer. Granted, single-player campaign of Half-Life 2 was impressive, but weapons that have been demonstrated in it made players curious. They questioned if the experience was complete because the first Half-Life included multiplayer mode from the beginning. Valve took the criticism and published Half-Life 2: Deathmatch – multiplayer only addition, based on the main game, which was a separate product, distributed on Steam. 
+The game includes two major modes, which are Deathmatch and Team Deathmatch. Both modes have similar rules. Players must kill as many other players as possible, to gain points. Player or team with the most points win, and points are retracted for self-killing and team killing. Players can expect fast-paced matches with instant respawns.

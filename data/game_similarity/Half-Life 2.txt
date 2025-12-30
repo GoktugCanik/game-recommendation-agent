@@ -1,0 +1,6 @@
+GAME: Half-Life 2
+THEME: Sci-Fi, Shooter, Story-Driven
+ATMOSPHERE: Dystopian, Tense, Atmospheric
+CORE_MECHANICS: Shooting, puzzle-solving, physics manipulation, exploration.
+SUMMARY: Gordon Freeman fights against alien forces and oppressive regimes using both combat and problem-solving. Similar to Half-Life, Portal, BioShock, Metro 2033, and Doom.
+

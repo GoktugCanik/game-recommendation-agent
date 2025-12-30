@@ -1,0 +1,10 @@
+GAME: The Last of Us Remastered
+SYSTEM_RANK: High-End
+OS: Windows 10
+CPU_TYPE: Quad-core
+RAM_MIN: 16 GB
+GPU_MIN: GTX 1070
+GPU_POWER_LEVEL: 6/10
+OPTIMIZATION: Medium
+NOTES: Remastered action-adventure; high-end GPU recommended for smooth gameplay.
+

@@ -1,0 +1,10 @@
+GAME: Portal
+SYSTEM_RANK: Entry-Level
+OS: Windows
+CPU_TYPE: Dual-core
+RAM_MIN: 2 GB
+GPU_MIN: Basic DirectX 9 GPU
+GPU_POWER_LEVEL: 1/10
+OPTIMIZATION: Very High
+NOTES: Extremely low hardware demand. Can run on integrated graphics from the last decade.
+

@@ -1,0 +1,10 @@
+GAME: Stardew Valley
+SYSTEM_RANK: Low-End
+OS: Windows
+CPU_TYPE: Dual-core
+RAM_MIN: 4 GB
+GPU_MIN: Basic GPU
+GPU_POWER_LEVEL: 1/10
+OPTIMIZATION: High
+NOTES: Lightweight farming simulation. Runs smoothly on almost any PC.
+

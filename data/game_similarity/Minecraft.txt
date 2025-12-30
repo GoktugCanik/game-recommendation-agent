@@ -1,0 +1,6 @@
+GAME: Minecraft
+THEME: Sandbox, Creativity, Survival
+ATMOSPHERE: Open, Relaxing, Playful
+CORE_MECHANICS: Building, crafting, exploration, survival
+SUMMARY: Create and explore blocky worlds. Similar to Terraria, Valheim, Roblox, Starbound, and Don’t Starve.
+

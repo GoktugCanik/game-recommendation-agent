@@ -1,0 +1,6 @@
+GAME: Life Is Strange
+THEME: Narrative-Driven, Adventure, Teen Drama
+ATMOSPHERE: Emotional, Modern, Realistic
+CORE_MECHANICS: Choice-based storytelling, exploration, time manipulation.
+SUMMARY: Follow Max Caulfield as she discovers her powers and navigates complex relationships. Similar to The Walking Dead, Detroit Become Human, Heavy Rain, Beyond Two Souls, and Oxenfree.
+

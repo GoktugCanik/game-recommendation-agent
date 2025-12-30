@@ -1,0 +1,10 @@
+GAME: Counter-Strike: Global Offensive
+SYSTEM_RANK: Low-End
+OS: Windows
+CPU_TYPE: Dual-core
+RAM_MIN: 4 GB
+GPU_MIN: GTX 750
+GPU_POWER_LEVEL: 3/10
+OPTIMIZATION: High
+NOTES: Heavily dependent on CPU clock speed. Runs smoothly on most entry-level dedicated GPUs.
+

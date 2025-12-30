@@ -1,0 +1,6 @@
+GAME: PUBG
+THEME: Battle Royale, Shooter, Online Multiplayer
+ATMOSPHERE: Intense, Competitive, Realistic
+CORE_MECHANICS: Survival, looting, shooting, strategy
+SUMMARY: Compete against dozens of players to be the last one standing. Similar to Apex Legends, Fortnite, Warzone, H1Z1, and Ring of Elysium.
+

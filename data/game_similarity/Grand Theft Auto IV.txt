@@ -1,0 +1,6 @@
+GAME: Grand Theft Auto IV
+THEME: Open World, Crime, Narrative-Driven
+ATMOSPHERE: Urban, Realistic, Gritty
+CORE_MECHANICS: Driving, shooting, exploration, narrative choices
+SUMMARY: Experience the story of Niko Bellic in Liberty City. Similar to GTA V, GTA San Andreas, Sleeping Dogs, Saints Row, and Mafia II.
+

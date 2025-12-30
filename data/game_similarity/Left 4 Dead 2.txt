@@ -1,0 +1,6 @@
+GAME: Left 4 Dead 2
+THEME: Survival, Horror, Co-op
+ATMOSPHERE: Tense, Dark, Chaotic
+CORE_MECHANICS: Cooperative shooting, zombie survival, teamwork, weapon management.
+SUMMARY: Survive hordes of infected with friends, making strategic use of weapons and terrain. Similar to Left 4 Dead, Back 4 Blood, World War Z, Killing Floor 2, and Payday 2.
+

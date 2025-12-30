@@ -1,0 +1,6 @@
+GAME: Warframe
+THEME: Shooter, MMO, Sci-Fi
+ATMOSPHERE: Futuristic, Fast-Paced, Cooperative
+CORE_MECHANICS: Parkour movement, shooting, loot, missions
+SUMMARY: Control ancient warriors and complete missions across the solar system. Similar to Destiny 2, Anthem, Borderlands 2, The Division, and Outriders.
+

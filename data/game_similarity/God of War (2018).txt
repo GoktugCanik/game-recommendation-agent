@@ -1,0 +1,6 @@
+GAME: God of War (2018)
+THEME: Action-Adventure, Mythology, Narrative-Driven
+ATMOSPHERE: Gritty, Cinematic, Epic
+CORE_MECHANICS: Melee combat, exploration, puzzle-solving, boss fights.
+SUMMARY: Kratos embarks on a journey with his son Atreus through the Norse realms. Similar to God of War Ragnarök, Horizon Zero Dawn, Dark Souls III, Assassin’s Creed Valhalla, and Sekiro.
+

@@ -1,0 +1,6 @@
+GAME: Rocket League
+THEME: Sports, Action, Multiplayer
+ATMOSPHERE: Fast-Paced, Competitive, Fun
+CORE_MECHANICS: Vehicle soccer, boosting, teamwork
+SUMMARY: Drive rocket-powered cars to play high-octane soccer matches. Similar to FIFA, Trackmania, Fall Guys, Knockout City, and SpeedRunners.
+

@@ -1,0 +1,10 @@
+GAME: Metal Gear Solid V
+SYSTEM_RANK: Mid-Range
+OS: Windows
+CPU_TYPE: Quad-core
+RAM_MIN: 8 GB
+GPU_MIN: GTX 760
+GPU_POWER_LEVEL: 4/10
+OPTIMIZATION: High
+NOTES: Optimized open-world stealth action. GTX 760 sufficient for medium-high settings.
+

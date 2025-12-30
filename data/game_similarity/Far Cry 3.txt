@@ -1,0 +1,6 @@
+GAME: Far Cry 3
+THEME: Open World, Shooter, Action-Adventure
+ATMOSPHERE: Tropical, Dangerous, Immersive
+CORE_MECHANICS: Exploration, combat, crafting, hunting
+SUMMARY: Survive on a tropical island overrun by pirates and mercenaries. Similar to Far Cry 4, Far Cry 5, Just Cause 3, Crysis, and Assassin’s Creed.
+

@@ -1,0 +1,6 @@
+GAME: Cities Skylines
+THEME: City-Building, Simulation, Strategy
+ATMOSPHERE: Detailed, Immersive, Strategic
+CORE_MECHANICS: City management, traffic, zoning, budgeting
+SUMMARY: Build and manage your own city. Similar to SimCity, Transport Fever, Planet Coaster, Anno 1800, and Frostpunk.
+

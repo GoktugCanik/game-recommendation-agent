@@ -1,0 +1,10 @@
+GAME: Team Fortress 2
+SYSTEM_RANK: Low-End
+OS: Windows
+CPU_TYPE: Dual-core
+RAM_MIN: 4 GB
+GPU_MIN: GTX 560
+GPU_POWER_LEVEL: 2/10
+OPTIMIZATION: High
+NOTES: Heavily CPU-bound. Frame rates depend more on processor speed than the graphics card.
+

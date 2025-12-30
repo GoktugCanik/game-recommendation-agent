@@ -1,0 +1,6 @@
+GAME: Spec Ops The Line
+THEME: Tactical Shooter, Military, Narrative-Driven
+ATMOSPHERE: Gritty, Realistic, Dark
+CORE_MECHANICS: Shooting, cover system, squad tactics, story-driven missions
+SUMMARY: Navigate a moral and physical battlefield in Dubai. Similar to Call of Duty, Battlefield, Metal Gear Solid, Max Payne 3, and Far Cry 3.
+

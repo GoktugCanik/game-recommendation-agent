@@ -1,0 +1,6 @@
+GAME: Marvel’s Spider-Man
+THEME: Superhero, Action-Adventure, Open World
+ATMOSPHERE: Urban, Vibrant, Dynamic
+CORE_MECHANICS: Web-swinging, combat, exploration, story-driven missions
+SUMMARY: Swing through New York City as Spider-Man. Similar to Batman Arkham Knight, Spider-Man Miles Morales, Infamous Second Son, Prototype, and Assassin’s Creed.
+

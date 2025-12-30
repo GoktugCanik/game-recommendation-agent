@@ -1,0 +1,9 @@
+Game Name: Counter-Strike
+Release Date: 2000-11-01
+Genres: Action, Shooter
+Tags: Multiplayer, First-Person, FPS, Classic, Survival, Tactical, PvP, Team-Based, Military, Competitive
+
+Description:
+Counter-Strike franchise started in back in 2000. Originated as a mod for Half-Life, the developers were signed by Valve Corporation thus beginning the franchise that exists to this very day. 
+
+Having no particular plot or story at all, Counter-Strike was a competitive game mostly used as PvP. With new physics and a large amount of weaponry, you can choose between two fractions - Counter-Terrorists and Terrorists. Each team had their signature weapon (CTs had M16 while T had AK-47, for example), the main goal of every round was to kill the opposite team or fulfil a task.  In case there is a bomb plant - detonate or prevent, hostages - rescue or prevent from it or assassination. One player from the team is chosen as a VIP person that must be protected, and the goal of the opposite team is to kill this VIP. By winning every round, you received a good payment, by loosing - much lesser one. You can spend cash on buying equipment and weapon. Counter-Strike franchise is still loved to this day, and even such old shooters live to this day.
