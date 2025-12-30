@@ -2,7 +2,7 @@
 
 my lora [assignment](https://github.com/GoktugCanik/Qwen2.5-Lora-and-Benchmarking)
 
-## İçindekiler
+## Table of Contents
 - [About Project](#about-project)
 - [Project Objective and Motivation](#project-objective-and-motivation)
 - [Data Acquisition and Structuring Strategy](#data-acquisition-and-structuring-strategy)
